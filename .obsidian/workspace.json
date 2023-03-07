@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "a57a9c0ecc161aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "44825417319227aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3caa8e2a8569229a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Summary/表示合适的表达.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eae2c1a3e42fbb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5b5d3117e93a141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb609289396e109f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "967e47d0f72c950b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "568cdd8a3d1fff40",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f773c04634bb0eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16956ffa2f83a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde116996bfbec99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vocabulary/Summary/表示合适的表达.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f81d9c7d088e1cfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vocabulary/Summary/表示合适的表达.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "746e22d68005442a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b3a2ed08f9a2fc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vocabulary/Summary/表示合适的表达.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3caa8e2a8569229a",
+  "lastOpenFiles": [
+    "Vocabulary/Words/suitable.md",
+    "Vocabulary/Words/proper.md",
+    "Vocabulary/Words/fit.md",
+    "Vocabulary/Words/felicitous.md",
+    "Vocabulary/Words/appropriate.md",
+    "Vocabulary/Summary/表示合适的表达.md",
+    "Vocabulary/Words",
+    "Vocabulary/Summary",
+    "README.md",
+    "READNE.md",
+    "新建文本文档.txt",
+    "Vocabulary"
+  ]
+}
